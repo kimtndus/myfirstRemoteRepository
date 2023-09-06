@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class ListTest1_1 {
 
+	//list
 	public static void main(String[] args) {
 
 		// 자료의 개수를 고정하지 않은 상태에서 저장하는 자료구조는 List (인터페이스)
@@ -17,7 +18,7 @@ public class ListTest1_1 {
 //		System.out.println(arrayList);
 //		arrayList.add(arrayList);
 		// 오브젝트: 최상위의 클래스
-		
+		//오브젝트: 입ㄴ ㅣ다 
 		arrayList.add(30);
 //		System.out.println(arrayList);
 
